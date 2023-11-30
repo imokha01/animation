@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    animation: move 4s infinite ;
+}
+
+
+@keyframes move {
+    0% {
+        background-color: #CCDBDC;
+    }
+    10% {
+        background-color: 487369;
+    }
+}

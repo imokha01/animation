@@ -1,0 +1,36 @@
+body{
+    background-color: blueviolet;
+    animation: move 4s infinite ;
+    position: relative;
+}
+
+.ball {
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%;
+    background-color: white;
+} 
+
+@keyframes move {
+    0% {
+        background-color: #CCDBDC;
+    }
+    25% {
+        background-color: #487369;
+    }
+
+    50% {
+        background-color: #282E39;
+    }
+
+    75% {
+        background-color: #232934;
+    }
+
+    100% {
+        background-color: #1F262E;
+    }
+}
+
+
+@key

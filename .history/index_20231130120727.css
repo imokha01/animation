@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+
+
+@keyframes move{
+    from {
+        background-color: blueviolet;
+    }
+}

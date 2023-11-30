@@ -1,0 +1,10 @@
+body{
+    background-color: blueviolet;
+}
+
+
+@keyframes mov{
+    from {
+        background-color: blueviolet;
+    }
+}

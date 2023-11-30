@@ -1,0 +1,14 @@
+body{
+    background-color: blueviolet;
+    animation: move 4s infinite ;
+}
+
+
+@keyframes move {
+    from {
+        background-color: blueviolet;
+    }
+    to {
+        background-color: ;
+    }
+}
