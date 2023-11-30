@@ -2,8 +2,6 @@ body{
     background-color: blueviolet;
     animation: move 10s infinite ;
     position: relative;
-    margin: 0;
-    overflow: hidden;
 }
 
 .header {
@@ -25,6 +23,7 @@ img {
     border-radius: 50%;
     background-color: white;
     position: absolute;
+
     animation: bounce 2s infinite;
     /* overflow: hidden; */
 } 
@@ -100,9 +99,8 @@ img {
     }
 
     100% {
-        top: 19rem; left: 100%; 
+        top: 19rem; right: 100%; 
     }
-
 }
 /* 
 @keyframes bouncer {

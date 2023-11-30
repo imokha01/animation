@@ -100,9 +100,8 @@ img {
     }
 
     100% {
-        top: 19rem; left: 100%; 
+        top: 19rem; right: 100%; 
     }
-
 }
 /* 
 @keyframes bouncer {

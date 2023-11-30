@@ -3,7 +3,6 @@ body{
     animation: move 10s infinite ;
     position: relative;
     margin: 0;
-    overflow: hidden;
 }
 
 .header {
@@ -100,9 +99,8 @@ img {
     }
 
     100% {
-        top: 19rem; left: 100%; 
+        top: 19rem; right: 100%; 
     }
-
 }
 /* 
 @keyframes bouncer {
