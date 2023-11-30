@@ -31,7 +31,7 @@ img {
 
 .floor {
     background-color: red;
-    height: 15.5rem;
+    height: 100%;
     width: 100vw;
     position: absolute;
     top: 28rem;
